@@ -1,0 +1,46 @@
+{
+  "id": "/#/",
+  "start_url": "/#/",
+  "scope": "/",
+  "name": "Dicoding Story App",
+  "short_name": "StoryDicoding",
+  "description": "Aplikasi berbagi cerita di Dicoding dengan tambahan fitur seperti gambar dan pengambilan lokasi.",
+  "display": "standalone",
+  "background_color": "#3498db",
+  "theme_color": "#white",
+  "icons": [
+    {
+      "src": "images/icon-x144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "images/welcoming_ss.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/list_story_pc.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/detail_story.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/ui_mobile.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
